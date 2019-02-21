@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/9d/46/3f/9d463fc1d806ec4216be0d50fbbeedb9.jpg");
+}
+
+p {
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.class {
+    color: green;
+
+}
+
+.movie{
+    color:red;
+}
+.Artist{
+    color:blue;
+}
+.name {
+    font-family: 'Indie Flower', cursive;
+}
